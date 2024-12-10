@@ -205,7 +205,7 @@ left: 309px;
 top: 682px;
 
 background: #FFFFFF;
-border-radius: 30px;""")
+border-radius: 30px;""", unsafe_allow_html=True)
 
 
 # Membaca file CSV dan menjadikan baris pertama sebagai header
